@@ -11,5 +11,5 @@ Part2: SQL Queries – Answers to 2 closed-ended and 1 open-ended questions, inc
 Part3: Communication with stakeholder – Includes key data quality issues, trends derived from the data and a request for action.  <br />
 The code is commented, and assumptions are explicitly stated to provide transparency into my approach. Let me know if you have any questions or if you’d like me to elaborate on any part of the analysis.
 
-Looking forward to your feedback!
+Looking forward to your feedback!  <br />
 Mei
